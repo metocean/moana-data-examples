@@ -2,11 +2,13 @@ name: moana-env
 channels:
   - conda-forge
 dependencies:
+  - numpy
+  - netcdf4
+  - scipy
+  - pydap
   - cartopy
   - python>=3.6
   - notebook
   - matplotlib
-  - numpy
   - xarray
   - dask
-  - netcdf4
