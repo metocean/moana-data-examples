@@ -1,9 +1,0 @@
-numpy >= 1.10
-jupyter
-cartopy
-netcdf4
-xarray
-dask
-matplotlib
-requests
-toolz
