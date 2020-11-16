@@ -8,6 +8,7 @@ dependencies:
   - pydap
   - cartopy
   - python>=3.6
+  - jupyter
   - notebook
   - matplotlib
   - xarray
