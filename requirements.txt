@@ -1,9 +1,8 @@
 jupyter
+cartopy
 netcdf4
-numpy
 xarray
 dask
 matplotlib
-cartopy
 requests
 toolz
