@@ -3,7 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - netcdf4
   - pydap
   - matplotlib
   - networkx
@@ -18,3 +17,4 @@ dependencies:
   - cmocean
   - xarray
   - dask
+  - netcdf4
